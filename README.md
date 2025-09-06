@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Roger Oliveira
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Roger de Oliveira Pedroso, tenho 18 anos e sou de Votorantim. Concluí o ensino médio & Integrado com o Técnico na Etec, com o curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal do instagram --> "@r_oliv3iraa".
 
