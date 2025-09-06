@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Roger Oliveira
+# 👨‍💻 Roger Oliveira
 
 **`Desenvolvedor FullStack`**
 
